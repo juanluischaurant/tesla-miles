@@ -1,0 +1,19 @@
+.tesla-battery__notice {
+	/* padding: 0 50px; */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+p.notice-p {
+	font-size: 12px;
+	letter-spacing: 2px;
+	color: rgb(69, 60, 60);
+	max-width: 800px;
+	margin: 0 0 12px 0;
+}
+
+p.notice-p:nth-child(2n) {
+	margin-bottom: 44px;
+}

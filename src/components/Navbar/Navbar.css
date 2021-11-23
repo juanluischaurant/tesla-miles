@@ -1,0 +1,9 @@
+.navbar-container {
+	background: #000;
+
+	padding: 18px;
+}
+
+.navbar-container img {
+	width: 10%;
+}
