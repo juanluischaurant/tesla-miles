@@ -130,7 +130,7 @@ const TeslaBattery = () => {
 
   useEffect(() => {
     statsUpdate()
-  }, [])
+  }, [config])
 
   
   return (
